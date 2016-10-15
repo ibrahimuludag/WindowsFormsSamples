@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace WindowsFormsSamples
 {
-    public partial class Form1 : Form
+    public partial class CloseDialog : Form
     {
-        public Form1()
+        public CloseDialog()
         {
             InitializeComponent();
         }
+
     }
 }

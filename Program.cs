@@ -17,7 +17,7 @@ namespace WindowsFormsSamples
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PersonForm());
+            Application.Run(new MDI.MainForm());
         }
     }
 }

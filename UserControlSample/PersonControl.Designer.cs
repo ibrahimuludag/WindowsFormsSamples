@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsSamples
+﻿namespace WindowsFormsSamples.UserControlSample
 {
     partial class PersonControl
     {

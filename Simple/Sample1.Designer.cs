@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsSamples
+﻿namespace WindowsFormsSamples.Simple
 {
     partial class Sample1
     {

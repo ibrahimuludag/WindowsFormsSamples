@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsSamples
+﻿namespace WindowsFormsSamples.UserControlSample
 {
     partial class PersonForm
     {
@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            WindowsFormsSamples.Person person2 = new WindowsFormsSamples.Person();
-            this.personControl1 = new WindowsFormsSamples.PersonControl();
+            Person person2 = new Person();
+            this.personControl1 = new PersonControl();
             this.SuspendLayout();
             // 
             // personControl1
